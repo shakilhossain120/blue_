@@ -1,0 +1,226 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/*hader stard*/
+header{
+    background: #121b2a;
+    overflow: hidden;
+    border-bottom: 1px solid #0475bb;
+}
+.wreapher{
+    width: 88%;
+    margin: auto;}
+.logo{
+    float: left;
+}
+.logo img{
+    width: 172px;
+    margin-top: 3px;
+}
+.menu{
+    float: right;
+    margin-top: -2px;}
+.menu ul{
+}
+.menu ul li{
+    list-style: none;
+    float: left;color: white;
+    padding: 10px;margin-top: 16px;}
+.menu ul li a{padding: 5px;
+}
+.menu ul li:hover{color:#1b8edc;;}
+/*hader end*/
+/*banner start*/
+.main_wraper{
+    overflow: hidden;
+    background-image:url(../imges/niil.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.container{
+        
+}
+.wraper{
+       width: 400px;
+       margin: 157px 105px;
+}
+.wraper h1{
+    margin: 0;
+    color: white;
+}
+.wraper h2{
+    margin: 0;
+    color: #4b95d4;
+}
+.wraper p{
+    color: white;    
+}
+button{
+         padding-right: 51px;
+    height: 35px;
+    padding-left: 62px;
+    border: 1px solid #0177b6;
+    border-radius: 6px;
+}
+/*banner end*/
+/*sarvis start*/
+.section_tow{
+
+background: #111d2d;
+
+overflow: hidden;
+}
+.wrapher{border-top: 1px solid #0875b6bf;overflow: hidden;height: 359px;width: 901px;margin: auto;}
+
+.single{
+    width: 274px;
+    padding: 13px;
+    float: left;
+    margin-top: 95px;
+}
+.top{
+    overflow: hidden;
+}
+.top_logo{
+    float: left;
+}
+.top_logo img{}
+.top_text{
+    margin-top: 7px;
+}
+.top_text h1{
+    margin: 0;
+    color: white;
+}
+.top_text h2{
+    margin: 0;
+    color: white;
+}
+.bottom{}
+.bottom p{
+    color: white;
+    margin: 0;
+    font-size: small;
+}
+/*single end*/
+/*sarvis end*/
+
+/*about_us start*/
+.section_three{
+    background: #0b0c11;
+    border-top: 1px solid #0262b06b;
+}
+.contuc_block{
+    overflow: hidden;
+    width: 901px;
+    margin: auto;
+}
+/*single_about statr*/
+.same{
+    width: 272px;
+    float: left;
+    margin-top: 67px;
+    margin-bottom: 30px;
+}
+.contuc_number{
+    width: 250px;
+    padding: 23px;
+}
+.contuc_number h1{
+    color: #0262b0;
+}
+.contuc_number p{
+    color: white;
+}
+.contuc_number h5{
+    color: white;
+    margin-top: 46px;
+}
+/*single_about end*/
+/*senter_contain start*/
+.contuc_tex{
+    width: 247px;
+    padding: 19px;
+}
+.contuc_tex h4{
+    color: white;
+    margin: 0;
+}
+ .contuc_tex h1{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: arial;
+    border-bottom: 1px solid #0262a1;
+    }
+.contuc_tex p{
+    color: white;
+    font-size: 15px;
+    }
+.last{
+    margin-top: 57px;
+}
+.last h1{}
+.last p{
+    margin: 0;
+}
+/*senter_contain end*/
+/*single_about_ther start*/
+.pic_block{
+    float: left;
+    width: 314px;
+    padding: 21px;
+}
+.pic_block img{
+}
+.tex_img{
+    float: right;
+}
+.tex_img h1{
+    margin: 0;
+    color: #0262b0;
+}
+.tex_img h2{
+    margin: 0;
+    color: white;
+}
+.tex_img img{}
+
+/*single_about_ther end*/
+/*about_us end*/
+/*footer statr*/
+footer{
+    background: #121b2c;
+    overflow: hidden;
+}
+.footer_whraper{
+    width: 901px;
+    overflow: hidden;
+    margin: auto;
+}
+.footer_text{
+    float: left;
+}
+.footer_text ul{
+    list-style: none;
+}
+.footer_text ul li{
+    color: wheat;
+    float: left;
+    padding: 13px;
+}
+.first_img{
+    float: right;
+    width: 338px;
+    margin-top: 36px;
+}
+.footer_igm_own{
+    float: left;
+}
+.footer_igm_own img{}
+.footer_img_tow{
+    float: right;
+}
+.footer_img_tow img{}
+/*footer end*/
